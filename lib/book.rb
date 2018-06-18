@@ -32,7 +32,7 @@ class Book
   end
   
   def page_turn
-    
+    puts "Flipping the page...wow, you read fast!"
   end
 end
 
