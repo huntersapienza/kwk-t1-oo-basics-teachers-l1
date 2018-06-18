@@ -16,13 +16,13 @@ class shoe
     @color
   end
   
-  def size=(num)
-    @size = num
-  end
+  # def size=(num)
+  #   @size = num
+  # end
   
-  def size
-    @size
-  end
+  # def size
+  #   @size
+  # end
   
   def material=(material)
     @material = material
